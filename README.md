@@ -101,6 +101,7 @@ Following that, we stop listening to selection events.
 		console.log event.detail.value
 		do selection.ignore
 
+
 ### **selection** (Event)
 The `detail` property on the event object passed to `selection` listeners 
 contains returns a selection object (see "Get"), extended with:
