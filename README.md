@@ -77,6 +77,7 @@ listen to `selection` and `deselection` events.
 		# Some more code...
 
 
+
 ## Events
 The main feature of _selection.js_ is it's ability to fire events for 
 selections. _Selection.js_ fires the `selection` event when the user selects 
