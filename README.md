@@ -50,6 +50,7 @@ Overall the module should work in Chrome, Firefox, IE 9, Opera 7, and Safari.
 Note that several well-implemented DOM level 2 methods are used (things like 
 `firstChild`, and `childNodes`).
 
+
 ## Instantiation
 
 Authors can instantiate the module by calling `Selection` as a constructor with
