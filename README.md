@@ -157,3 +157,4 @@ selection.
 [**]: If `$bottom` is not a text node then `bottomOffset` will default to 
 `$bottom.childNodes.length`, otherwise `bottomOffset` will default to 
 `$bottom.textContent.length`.
+
