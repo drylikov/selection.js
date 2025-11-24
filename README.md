@@ -109,6 +109,7 @@ contains returns a selection object (see "Get"), extended with:
 - `originalEvent` (Type `Event`): The original event, for example a MouseEvent 
 if the selection happened by clicking on a word.
 
+
 ### **deselection** (Event)
 The `detail` property on the event object passed to `deselection` listeners 
 contains the following properties:
