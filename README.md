@@ -52,6 +52,7 @@ Note that several well-implemented DOM level 2 methods are used (things like
 
 
 
+
 ## Instantiation
 
 Authors can instantiate the module by calling `Selection` as a constructor with
